@@ -1,2 +1,2 @@
-disp("Mind Goblin")
-67
+disp("Mind Goblin") % Oscar
+67 % Mich
