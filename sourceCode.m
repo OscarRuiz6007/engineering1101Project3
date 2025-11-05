@@ -1,1 +1,1 @@
-disp("Mind Gobline")
+disp("Mind Goblin")
