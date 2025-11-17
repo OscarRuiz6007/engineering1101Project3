@@ -24,7 +24,8 @@ ylabel('Distance (Measurement) [m]'); % Add Vertical Axis Labeling
 grid on; % Add Grid Lines
 hold on;
 
-while on == true
+% Active Data Collection to be Graphed
+while on == true % Start of loop for data collection
 
     if i == 0
     disp("Start") % Notiy user of Start 
